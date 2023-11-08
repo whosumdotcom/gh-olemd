@@ -1,0 +1,39 @@
+{
+  "TermsOfServiceVersion": 1,
+  "TermsAgreedToWhen": "2023-11-08T07:37:02Z",
+  "IdClaims": [
+    {
+      "Claim": "gh:olemd"
+    },
+    {
+      "Claim": "mdon:@olemd@mastodon.social"
+    }
+  ],
+  "IdDisclaims": [
+    {
+      "Claim": "x:no-account"
+    },
+    {
+      "Claim": "med:no-account"
+    },
+    {
+      "Claim": "pat:no-account"
+    },
+    {
+      "Claim": "spout:no-account"
+    },
+    {
+      "Claim": "ss:no-account"
+    }
+  ],
+  "Signature": {
+    "Authority": "https://whosum.com",
+    "PublicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEApF0NC9C13limzP9H5\u002BcXoWEddOfjDdysecEWNhNxS3yCWdRJjsCpIWY3euUxIFWw9W9Zkbo1tx8YbnLVdCPd7qORelTZZR5I9IvQdsyyqZIeAuw4xk/VcK119Kme13cqhsjOtgCrdekjz5YEklZqXdZKclJMc2fqHjOfHl07lYXWmqx8FxCUjjGCkBcr4WZD/uvs0SXRACkXS01bP0Wbao1sHxyFoADHV5i8Yvg2o32Sy37DMMMOfjO8ZpqqwNKVEs04gGL\u002BnGkDqNP/6lIaTinrzCJe57qcorGcVlWGdV4nC5uMgIgqZ/7pzrCHF5WbXai3g3AObmPJ5eG8TCTsrQIDAQAB",
+    "Nonce": "b18105f46333179f92353403",
+    "Timestamp": "2023-11-08T07:43:59Z",
+    "Signature": "7acd27c29b48d42a323ab3df835ab00aa707b70a3d7e6376375ea16a90d3aeb11edf78e9d6a14f408d1faa3d48fdc530874ab484f0a1b25aaad395aa86d4e52e61c1c428aba912454542d75821237dab89c6c684e6fe3c5f01fb8f86a29abc96002650dfc360483ee07504eba76f396b0223189ce2a0670d941be54da09df10178b8d19782721ed8ae45c05c79916451dd032bf1f5aa70cc1a36960a0d0c7c3612152abad76a6cb188b0066769b7d0c8ec65bbdf6a703a72b326e00029d33f271256400c6a31eee0e617bd2b104058911b7b86b5d79ebf08393b8cf22607f25be58e5278be5b3bfb7e095991916d33de0de1e79e4044dd38244a1f0e6335d6b5"
+  },
+  "AgreedToTerms": true,
+  "ContentSha256": "d7d2219c7fc505b792a36fce3b17dc281a874b2e6d8a99d60504d665cbe8c7eb",
+  "ContentToHash": "v1|gh:olemd,mdon:@olemd@mastodon.social,med:no-account,pat:no-account,spout:no-account,ss:no-account,x:no-account|2023-11-08T07:37:02Z"
+}
